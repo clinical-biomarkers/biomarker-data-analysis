@@ -3,4 +3,5 @@
 *.log
 *.tsv
 *.txt
+*.xlsx
 env
